@@ -25,177 +25,177 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-account-check-outline:before {
+.account-check-outline:before {
   content: "\e900";
 }
-.icon-account-outline:before {
+.account-outline:before {
   content: "\e901";
 }
-.icon-arrow-down:before {
+.arrow-down:before {
   content: "\e902";
 }
-.icon-arrow-left-bold-outline:before {
+.arrow-left-bold-outline:before {
   content: "\e903";
 }
-.icon-arrow-left-top:before {
+.arrow-left-top:before {
   content: "\e904";
 }
-.icon-arrow-right-bold-outline:before {
+.arrow-right-bold-outline:before {
   content: "\e905";
 }
-.icon-arrow-right-top:before {
+.arrow-right-top:before {
   content: "\e906";
 }
-.icon-arrow-up:before {
+.arrow-up:before {
   content: "\e907";
 }
-.icon-badge-account-outline:before {
+.badge-account-outline:before {
   content: "\e908";
 }
-.icon-briefcase-outline:before {
+.briefcase-outline:before {
   content: "\e909";
 }
-.icon-camera-outline:before {
+.camera-outline:before {
   content: "\e90a";
 }
-.icon-certificate-outline:before {
+.certificate-outline:before {
   content: "\e90b";
 }
-.icon-chart-bar:before {
+.chart-bar:before {
   content: "\e90c";
 }
-.icon-chart-box-outline:before {
+.chart-box-outline:before {
   content: "\e90d";
 }
-.icon-chart-line:before {
+.chart-line:before {
   content: "\e90e";
 }
-.icon-checkbox-marked-circle-outline:before {
+.checkbox-marked-circle-outline:before {
   content: "\e90f";
 }
-.icon-clipboard-outline:before {
+.clipboard-outline:before {
   content: "\e910";
 }
-.icon-clock-outline:before {
+.clock-outline:before {
   content: "\e911";
 }
-.icon-close:before {
+.close:before {
   content: "\e912";
 }
-.icon-cloud-outline:before {
+.cloud-outline:before {
   content: "\e913";
 }
-.icon-comment-outline:before {
+.comment-outline:before {
   content: "\e914";
 }
-.icon-currency-eur:before {
+.currency-eur:before {
   content: "\e915";
 }
-.icon-currency-usd:before {
+.currency-usd:before {
   content: "\e916";
 }
-.icon-dots-grid:before {
+.dots-grid:before {
   content: "\e917";
 }
-.icon-email-fast-outline:before {
+.email-fast-outline:before {
   content: "\e918";
 }
-.icon-email-outline:before {
+.email-outline:before {
   content: "\e919";
 }
-.icon-export-variant:before {
+.export-variant:before {
   content: "\e91a";
 }
-.icon-fan:before {
+.fan:before {
   content: "\e91b";
 }
-.icon-file:before {
+.file:before {
   content: "\e91c";
 }
-.icon-file-document-outline:before {
+.file-document-outline:before {
   content: "\e91d";
 }
-.icon-fingerprint:before {
+.fingerprint:before {
   content: "\e91e";
 }
-.icon-folder-outline:before {
+.folder-outline:before {
   content: "\e91f";
 }
-.icon-folder-plus-outline:before {
+.folder-plus-outline:before {
   content: "\e920";
 }
-.icon-gauge:before {
+.gauge:before {
   content: "\e921";
 }
-.icon-home-variant-outline:before {
+.home-variant-outline:before {
   content: "\e925";
 }
-.icon-infinity:before {
+.infinity:before {
   content: "\e926";
 }
-.icon-layers-outline:before {
+.layers-outline:before {
   content: "\e927";
 }
-.icon-lock-open-outline:before {
+.lock-open-outline:before {
   content: "\e928";
 }
-.icon-lock-outline:before {
+.lock-outline:before {
   content: "\e929";
 }
-.icon-magnify:before {
+.magnify:before {
   content: "\e92a";
 }
-.icon-map-marker-outline:before {
+.map-marker-outline:before {
   content: "\e92b";
 }
-.icon-map-outline:before {
+.map-outline:before {
   content: "\e92c";
 }
-.icon-minus-circle-outline:before {
+.minus-circle-outline:before {
   content: "\e92d";
 }
-.icon-notebook-outline:before {
+.notebook-outline:before {
   content: "\e92e";
 }
-.icon-paperclip:before {
+.paperclip:before {
   content: "\e92f";
 }
-.icon-plus:before {
+.plus:before {
   content: "\e930";
 }
-.icon-plus-circle-outline:before {
+.plus-circle-outline:before {
   content: "\e931";
 }
-.icon-receipt-text-outline:before {
+.receipt-text-outline:before {
   content: "\e932";
 }
-.icon-reload:before {
+.reload:before {
   content: "\e933";
 }
-.icon-send-outline:before {
+.send-outline:before {
   content: "\e934";
 }
-.icon-share-variant-outline:before {
+.share-variant-outline:before {
   content: "\e935";
 }
-.icon-shield-outline:before {
+.shield-outline:before {
   content: "\e936";
 }
-.icon-trash-can-outline:before {
+.trash-can-outline:before {
   content: "\e937";
 }
-.icon-truck-outline:before {
+.truck-outline:before {
   content: "\e938";
 }
-.icon-tune-vertical:before {
+.tune-vertical:before {
   content: "\e939";
 }
-.icon-wallet-outline:before {
+.wallet-outline:before {
   content: "\e93a";
 }
-.icon-water-outline:before {
+.water-outline:before {
   content: "\e93b";
 }
-.icon-wrench-outline:before {
+.wrench-outline:before {
   content: "\e93c";
 }
