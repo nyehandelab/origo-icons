@@ -1,0 +1,15 @@
+{
+  "name": "nyehandel/origo-icons",
+  "version": "1.0.0",
+  "description": "Webfont icon set for Origo of SVB",
+  "style": "css/origoicons.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nyehandelab/origo-icons.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Martin Bernebring",
+    "web": "https://teamsvb.se"
+  }
+}
