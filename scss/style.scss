@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?yqr82x');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?yqr82x#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?yqr82x') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?yqr82x') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?yqr82x##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ot3qww');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ot3qww#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ot3qww') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ot3qww') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ot3qww##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -29,292 +29,292 @@
 
 .account-check-outline {
   &:before {
-    content: $icon-account-check-outline;     
+    content: $account-check-outline;     
   }
 }
 .account-outline {
   &:before {
-    content: $icon-account-outline;     
+    content: $account-outline;     
   }
 }
 .arrow-down {
   &:before {
-    content: $icon-arrow-down;     
+    content: $arrow-down;     
   }
 }
 .arrow-left-bold-outline {
   &:before {
-    content: $icon-arrow-left-bold-outline;     
+    content: $arrow-left-bold-outline;     
   }
 }
 .arrow-left-top {
   &:before {
-    content: $icon-arrow-left-top;     
+    content: $arrow-left-top;     
   }
 }
 .arrow-right-bold-outline {
   &:before {
-    content: $icon-arrow-right-bold-outline;     
+    content: $arrow-right-bold-outline;     
   }
 }
 .arrow-right-top {
   &:before {
-    content: $icon-arrow-right-top;     
+    content: $arrow-right-top;     
   }
 }
 .arrow-up {
   &:before {
-    content: $icon-arrow-up;     
+    content: $arrow-up;     
   }
 }
 .badge-account-outline {
   &:before {
-    content: $icon-badge-account-outline;     
+    content: $badge-account-outline;     
   }
 }
 .briefcase-outline {
   &:before {
-    content: $icon-briefcase-outline;     
+    content: $briefcase-outline;     
   }
 }
 .camera-outline {
   &:before {
-    content: $icon-camera-outline;     
+    content: $camera-outline;     
   }
 }
 .certificate-outline {
   &:before {
-    content: $icon-certificate-outline;     
+    content: $certificate-outline;     
   }
 }
 .chart-bar {
   &:before {
-    content: $icon-chart-bar;     
+    content: $chart-bar;     
   }
 }
 .chart-box-outline {
   &:before {
-    content: $icon-chart-box-outline;     
+    content: $chart-box-outline;     
   }
 }
 .chart-line {
   &:before {
-    content: $icon-chart-line;     
+    content: $chart-line;     
   }
 }
 .checkbox-marked-circle-outline {
   &:before {
-    content: $icon-checkbox-marked-circle-outline;     
+    content: $checkbox-marked-circle-outline;     
   }
 }
 .clipboard-outline {
   &:before {
-    content: $icon-clipboard-outline;     
+    content: $clipboard-outline;     
   }
 }
 .clock-outline {
   &:before {
-    content: $icon-clock-outline;     
+    content: $clock-outline;     
   }
 }
 .close {
   &:before {
-    content: $icon-close;     
+    content: $close;     
   }
 }
 .cloud-outline {
   &:before {
-    content: $icon-cloud-outline;     
+    content: $cloud-outline;     
   }
 }
 .comment-outline {
   &:before {
-    content: $icon-comment-outline;     
+    content: $comment-outline;     
   }
 }
 .currency-eur {
   &:before {
-    content: $icon-currency-eur;     
+    content: $currency-eur;     
   }
 }
 .currency-usd {
   &:before {
-    content: $icon-currency-usd;     
+    content: $currency-usd;     
   }
 }
 .dots-grid {
   &:before {
-    content: $icon-dots-grid;     
+    content: $dots-grid;     
   }
 }
 .email-fast-outline {
   &:before {
-    content: $icon-email-fast-outline;     
+    content: $email-fast-outline;     
   }
 }
 .email-outline {
   &:before {
-    content: $icon-email-outline;     
+    content: $email-outline;     
   }
 }
 .export-variant {
   &:before {
-    content: $icon-export-variant;     
+    content: $export-variant;     
   }
 }
 .fan {
   &:before {
-    content: $icon-fan;     
+    content: $fan;     
   }
 }
 .file {
   &:before {
-    content: $icon-file;     
+    content: $file;     
   }
 }
 .file-document-outline {
   &:before {
-    content: $icon-file-document-outline;     
+    content: $file-document-outline;     
   }
 }
 .fingerprint {
   &:before {
-    content: $icon-fingerprint;     
+    content: $fingerprint;     
   }
 }
 .folder-outline {
   &:before {
-    content: $icon-folder-outline;     
+    content: $folder-outline;     
   }
 }
 .folder-plus-outline {
   &:before {
-    content: $icon-folder-plus-outline;     
+    content: $folder-plus-outline;     
   }
 }
 .gauge {
   &:before {
-    content: $icon-gauge;     
+    content: $gauge;     
   }
 }
 .home-variant-outline {
   &:before {
-    content: $icon-home-variant-outline;     
+    content: $home-variant-outline;     
   }
 }
 .infinity {
   &:before {
-    content: $icon-infinity;     
+    content: $infinity;     
   }
 }
 .layers-outline {
   &:before {
-    content: $icon-layers-outline;     
+    content: $layers-outline;     
   }
 }
 .lock-open-outline {
   &:before {
-    content: $icon-lock-open-outline;     
+    content: $lock-open-outline;     
   }
 }
 .lock-outline {
   &:before {
-    content: $icon-lock-outline;     
+    content: $lock-outline;     
   }
 }
 .magnify {
   &:before {
-    content: $icon-magnify;     
+    content: $magnify;     
   }
 }
 .map-marker-outline {
   &:before {
-    content: $icon-map-marker-outline;     
+    content: $map-marker-outline;     
   }
 }
 .map-outline {
   &:before {
-    content: $icon-map-outline;     
+    content: $map-outline;     
   }
 }
 .minus-circle-outline {
   &:before {
-    content: $icon-minus-circle-outline;     
+    content: $minus-circle-outline;     
   }
 }
 .notebook-outline {
   &:before {
-    content: $icon-notebook-outline;     
+    content: $notebook-outline;     
   }
 }
 .paperclip {
   &:before {
-    content: $icon-paperclip;     
+    content: $paperclip;     
   }
 }
 .plus {
   &:before {
-    content: $icon-plus;     
+    content: $plus;     
   }
 }
 .plus-circle-outline {
   &:before {
-    content: $icon-plus-circle-outline;     
+    content: $plus-circle-outline;     
   }
 }
 .receipt-text-outline {
   &:before {
-    content: $icon-receipt-text-outline;     
+    content: $receipt-text-outline;     
   }
 }
 .reload {
   &:before {
-    content: $icon-reload;     
+    content: $reload;     
   }
 }
 .send-outline {
   &:before {
-    content: $icon-send-outline;     
+    content: $send-outline;     
   }
 }
 .share-variant-outline {
   &:before {
-    content: $icon-share-variant-outline;     
+    content: $share-variant-outline;     
   }
 }
 .shield-outline {
   &:before {
-    content: $icon-shield-outline;     
+    content: $shield-outline;     
   }
 }
 .trash-can-outline {
   &:before {
-    content: $icon-trash-can-outline;     
+    content: $trash-can-outline;     
   }
 }
 .truck-outline {
   &:before {
-    content: $icon-truck-outline;     
+    content: $truck-outline;     
   }
 }
 .tune-vertical {
   &:before {
-    content: $icon-tune-vertical;     
+    content: $tune-vertical;     
   }
 }
 .wallet-outline {
   &:before {
-    content: $icon-wallet-outline;     
+    content: $wallet-outline;     
   }
 }
 .water-outline {
   &:before {
-    content: $icon-water-outline;     
+    content: $water-outline;     
   }
 }
 .wrench-outline {
   &:before {
-    content: $icon-wrench-outline;     
+    content: $wrench-outline;     
   }
 }
 
