@@ -12,7 +12,7 @@
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+.svb {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: '#{$icomoon-font-family}' !important;
   speak: never;
@@ -27,292 +27,292 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-account-check-outline {
+.account-check-outline {
   &:before {
     content: $icon-account-check-outline;     
   }
 }
-.icon-account-outline {
+.account-outline {
   &:before {
     content: $icon-account-outline;     
   }
 }
-.icon-arrow-down {
+.arrow-down {
   &:before {
     content: $icon-arrow-down;     
   }
 }
-.icon-arrow-left-bold-outline {
+.arrow-left-bold-outline {
   &:before {
     content: $icon-arrow-left-bold-outline;     
   }
 }
-.icon-arrow-left-top {
+.arrow-left-top {
   &:before {
     content: $icon-arrow-left-top;     
   }
 }
-.icon-arrow-right-bold-outline {
+.arrow-right-bold-outline {
   &:before {
     content: $icon-arrow-right-bold-outline;     
   }
 }
-.icon-arrow-right-top {
+.arrow-right-top {
   &:before {
     content: $icon-arrow-right-top;     
   }
 }
-.icon-arrow-up {
+.arrow-up {
   &:before {
     content: $icon-arrow-up;     
   }
 }
-.icon-badge-account-outline {
+.badge-account-outline {
   &:before {
     content: $icon-badge-account-outline;     
   }
 }
-.icon-briefcase-outline {
+.briefcase-outline {
   &:before {
     content: $icon-briefcase-outline;     
   }
 }
-.icon-camera-outline {
+.camera-outline {
   &:before {
     content: $icon-camera-outline;     
   }
 }
-.icon-certificate-outline {
+.certificate-outline {
   &:before {
     content: $icon-certificate-outline;     
   }
 }
-.icon-chart-bar {
+.chart-bar {
   &:before {
     content: $icon-chart-bar;     
   }
 }
-.icon-chart-box-outline {
+.chart-box-outline {
   &:before {
     content: $icon-chart-box-outline;     
   }
 }
-.icon-chart-line {
+.chart-line {
   &:before {
     content: $icon-chart-line;     
   }
 }
-.icon-checkbox-marked-circle-outline {
+.checkbox-marked-circle-outline {
   &:before {
     content: $icon-checkbox-marked-circle-outline;     
   }
 }
-.icon-clipboard-outline {
+.clipboard-outline {
   &:before {
     content: $icon-clipboard-outline;     
   }
 }
-.icon-clock-outline {
+.clock-outline {
   &:before {
     content: $icon-clock-outline;     
   }
 }
-.icon-close {
+.close {
   &:before {
     content: $icon-close;     
   }
 }
-.icon-cloud-outline {
+.cloud-outline {
   &:before {
     content: $icon-cloud-outline;     
   }
 }
-.icon-comment-outline {
+.comment-outline {
   &:before {
     content: $icon-comment-outline;     
   }
 }
-.icon-currency-eur {
+.currency-eur {
   &:before {
     content: $icon-currency-eur;     
   }
 }
-.icon-currency-usd {
+.currency-usd {
   &:before {
     content: $icon-currency-usd;     
   }
 }
-.icon-dots-grid {
+.dots-grid {
   &:before {
     content: $icon-dots-grid;     
   }
 }
-.icon-email-fast-outline {
+.email-fast-outline {
   &:before {
     content: $icon-email-fast-outline;     
   }
 }
-.icon-email-outline {
+.email-outline {
   &:before {
     content: $icon-email-outline;     
   }
 }
-.icon-export-variant {
+.export-variant {
   &:before {
     content: $icon-export-variant;     
   }
 }
-.icon-fan {
+.fan {
   &:before {
     content: $icon-fan;     
   }
 }
-.icon-file {
+.file {
   &:before {
     content: $icon-file;     
   }
 }
-.icon-file-document-outline {
+.file-document-outline {
   &:before {
     content: $icon-file-document-outline;     
   }
 }
-.icon-fingerprint {
+.fingerprint {
   &:before {
     content: $icon-fingerprint;     
   }
 }
-.icon-folder-outline {
+.folder-outline {
   &:before {
     content: $icon-folder-outline;     
   }
 }
-.icon-folder-plus-outline {
+.folder-plus-outline {
   &:before {
     content: $icon-folder-plus-outline;     
   }
 }
-.icon-gauge {
+.gauge {
   &:before {
     content: $icon-gauge;     
   }
 }
-.icon-home-variant-outline {
+.home-variant-outline {
   &:before {
     content: $icon-home-variant-outline;     
   }
 }
-.icon-infinity {
+.infinity {
   &:before {
     content: $icon-infinity;     
   }
 }
-.icon-layers-outline {
+.layers-outline {
   &:before {
     content: $icon-layers-outline;     
   }
 }
-.icon-lock-open-outline {
+.lock-open-outline {
   &:before {
     content: $icon-lock-open-outline;     
   }
 }
-.icon-lock-outline {
+.lock-outline {
   &:before {
     content: $icon-lock-outline;     
   }
 }
-.icon-magnify {
+.magnify {
   &:before {
     content: $icon-magnify;     
   }
 }
-.icon-map-marker-outline {
+.map-marker-outline {
   &:before {
     content: $icon-map-marker-outline;     
   }
 }
-.icon-map-outline {
+.map-outline {
   &:before {
     content: $icon-map-outline;     
   }
 }
-.icon-minus-circle-outline {
+.minus-circle-outline {
   &:before {
     content: $icon-minus-circle-outline;     
   }
 }
-.icon-notebook-outline {
+.notebook-outline {
   &:before {
     content: $icon-notebook-outline;     
   }
 }
-.icon-paperclip {
+.paperclip {
   &:before {
     content: $icon-paperclip;     
   }
 }
-.icon-plus {
+.plus {
   &:before {
     content: $icon-plus;     
   }
 }
-.icon-plus-circle-outline {
+.plus-circle-outline {
   &:before {
     content: $icon-plus-circle-outline;     
   }
 }
-.icon-receipt-text-outline {
+.receipt-text-outline {
   &:before {
     content: $icon-receipt-text-outline;     
   }
 }
-.icon-reload {
+.reload {
   &:before {
     content: $icon-reload;     
   }
 }
-.icon-send-outline {
+.send-outline {
   &:before {
     content: $icon-send-outline;     
   }
 }
-.icon-share-variant-outline {
+.share-variant-outline {
   &:before {
     content: $icon-share-variant-outline;     
   }
 }
-.icon-shield-outline {
+.shield-outline {
   &:before {
     content: $icon-shield-outline;     
   }
 }
-.icon-trash-can-outline {
+.trash-can-outline {
   &:before {
     content: $icon-trash-can-outline;     
   }
 }
-.icon-truck-outline {
+.truck-outline {
   &:before {
     content: $icon-truck-outline;     
   }
 }
-.icon-tune-vertical {
+.tune-vertical {
   &:before {
     content: $icon-tune-vertical;     
   }
 }
-.icon-wallet-outline {
+.wallet-outline {
   &:before {
     content: $icon-wallet-outline;     
   }
 }
-.icon-water-outline {
+.water-outline {
   &:before {
     content: $icon-water-outline;     
   }
 }
-.icon-wrench-outline {
+.wrench-outline {
   &:before {
     content: $icon-wrench-outline;     
   }
