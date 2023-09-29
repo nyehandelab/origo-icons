@@ -1,249 +1,257 @@
 {
   "selection": [
     {
-      "order": 21,
+      "order": 0,
       "name": "account-check-outline"
     },
     {
-      "order": 22,
+      "order": 0,
       "name": "account-outline"
     },
     {
-      "order": 23,
+      "order": 0,
       "name": "arrow-down"
     },
     {
-      "order": 24,
+      "order": 0,
       "name": "arrow-left-bold-outline"
     },
     {
-      "order": 25,
+      "order": 0,
       "name": "arrow-left-top"
     },
     {
-      "order": 26,
+      "order": 0,
       "name": "arrow-right-bold-outline"
     },
     {
-      "order": 27,
+      "order": 0,
       "name": "arrow-right-top"
     },
     {
-      "order": 28,
+      "order": 0,
       "name": "arrow-up"
     },
     {
-      "order": 29,
+      "order": 0,
       "name": "badge-account-outline"
     },
     {
-      "order": 30,
+      "order": 0,
       "name": "briefcase-outline"
     },
     {
-      "order": 31,
+      "order": 0,
       "name": "camera-outline"
     },
     {
-      "order": 32,
+      "order": 0,
       "name": "certificate-outline"
     },
     {
-      "order": 33,
+      "order": 0,
       "name": "chart-bar"
     },
     {
-      "order": 34,
+      "order": 0,
       "name": "chart-box-outline"
     },
     {
-      "order": 35,
+      "order": 0,
       "name": "chart-line"
     },
     {
-      "order": 36,
+      "order": 0,
       "name": "checkbox-marked-circle-outline"
     },
     {
-      "order": 37,
+      "order": 0,
       "name": "clipboard-outline"
     },
     {
-      "order": 38,
+      "order": 0,
       "name": "clock-outline"
     },
     {
-      "order": 39,
+      "order": 0,
       "name": "close"
     },
     {
-      "order": 40,
+      "order": 0,
       "name": "cloud-outline"
     },
     {
-      "order": 41,
+      "order": 0,
       "name": "comment-outline"
     },
     {
-      "order": 42,
+      "order": 0,
       "name": "currency-eur"
     },
     {
-      "order": 43,
+      "order": 0,
       "name": "currency-usd"
     },
     {
-      "order": 44,
+      "order": 0,
       "name": "dots-grid"
     },
     {
-      "order": 45,
+      "order": 0,
       "name": "email-fast-outline"
     },
     {
-      "order": 46,
+      "order": 0,
       "name": "email-outline"
     },
     {
-      "order": 47,
+      "order": 0,
       "name": "export-variant"
     },
     {
-      "order": 48,
+      "order": 0,
       "name": "fan"
     },
     {
-      "order": 49,
+      "order": 0,
       "name": "file"
     },
     {
-      "order": 50,
+      "order": 0,
       "name": "file-document-outline"
     },
     {
-      "order": 51,
+      "order": 0,
       "name": "fingerprint"
     },
     {
-      "order": 52,
+      "order": 0,
       "name": "folder-outline"
     },
     {
-      "order": 53,
+      "order": 0,
       "name": "folder-plus-outline"
     },
     {
-      "order": 54,
+      "order": 0,
       "name": "gauge"
     },
     {
-      "order": 55,
+      "order": 0,
       "name": "gauge-variant"
     },
     {
-      "order": 56,
+      "order": 0,
       "name": "home-variant-outline"
     },
     {
-      "order": 57,
+      "order": 0,
       "name": "infinity"
     },
     {
-      "order": 58,
+      "order": 0,
       "name": "layers-outline"
     },
     {
-      "order": 59,
+      "order": 0,
       "name": "lock-open-outline"
     },
     {
-      "order": 60,
+      "order": 0,
       "name": "lock-outline"
     },
     {
-      "order": 61,
+      "order": 0,
       "name": "magnify"
     },
     {
-      "order": 62,
+      "order": 0,
       "name": "map-marker-outline"
     },
     {
-      "order": 63,
+      "order": 0,
       "name": "map-outline"
     },
     {
-      "order": 64,
+      "order": 0,
       "name": "minus-circle-outline"
     },
     {
-      "order": 65,
+      "order": 0,
       "name": "notebook-outline"
     },
     {
-      "order": 66,
+      "order": 0,
       "name": "paperclip"
     },
     {
-      "order": 67,
+      "order": 0,
       "name": "plus"
     },
     {
-      "order": 68,
+      "order": 0,
       "name": "plus-circle-outline"
     },
     {
-      "order": 69,
+      "order": 0,
       "name": "receipt-text-outline"
     },
     {
-      "order": 70,
+      "order": 0,
       "name": "reload"
     },
     {
-      "order": 71,
+      "order": 0,
       "name": "send-outline"
     },
     {
-      "order": 72,
+      "order": 0,
       "name": "share-variant-outline"
     },
     {
-      "order": 73,
+      "order": 0,
       "name": "shield-outline"
     },
     {
-      "order": 74,
+      "order": 0,
       "name": "trash-can-outline"
     },
     {
-      "order": 75,
+      "order": 0,
       "name": "truck-outline"
     },
     {
-      "order": 76,
+      "order": 0,
       "name": "tune-vertical"
     },
     {
-      "order": 77,
+      "order": 0,
       "name": "wallet-outline"
     },
     {
-      "order": 78,
+      "order": 0,
       "name": "water-outline"
     },
     {
-      "order": 79,
+      "order": 0,
       "name": "wrench-outline"
+    },
+    {
+      "order": 0,
+      "name": "flag-variant-outline"
+    },
+    {
+      "order": 0,
+      "name": "recycle-variant"
     }
   ],
   "metadata": {
-    "name": "Untitled Set",
+    "name": "SVB-Origo",
     "importSize": {
-      "width": 113,
-      "height": 113
+      "width": 284,
+      "height": 284
     },
-    "iconsHash": 1114721201
+    "iconsHash": 680041311
   },
   "height": 1024,
   "prevSize": 32,
@@ -2642,6 +2650,98 @@
           }
         ]
       }
+    },
+    {
+      "paths": [
+        "M862.709 710.84h-701.755c-8.418 0-15.154-6.736-15.154-15.154v-550.561c0-8.418 6.736-15.154 15.154-15.154h701.755c5.050 0 9.767 2.694 12.46 6.736 2.694 4.377 3.368 9.767 1.012 14.142l-119.205 269.387 119.205 269.387c2.019 4.713 1.682 10.103-1.012 14.142-2.694 4.713-7.406 7.073-12.46 7.073zM176.108 680.873h663.704l-112.469-254.233c-1.682-4.042-1.682-8.418 0-12.123l112.469-254.233h-663.704v520.59z",
+        "M160.954 952.28c-8.418 0-15.154-6.736-15.154-15.154v-850.589c0-8.418 6.736-15.154 15.154-15.154s15.154 6.736 15.154 15.154v850.589c0 8.418-6.736 15.154-15.154 15.154z"
+      ],
+      "attrs": [
+        {
+          "fill": "rgb(95, 98, 99)"
+        },
+        {
+          "fill": "rgb(95, 98, 99)"
+        }
+      ],
+      "grid": 0,
+      "tags": [
+        ""
+      ],
+      "colorPermutations": {
+        "100101105110010210612051946120614451991011051": [
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          }
+        ],
+        "10010110511001021061205194619598991991011051": [
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          }
+        ]
+      }
+    },
+    {
+      "paths": [
+        "M435.647 912.799c-0.94 0-1.871 0-2.811-0.313-190.797-37.159-329.133-205.782-329.133-400.643 0-225.145 182.991-408.135 408.135-408.135 7.806 0 14.367 6.561 14.367 14.367s-6.561 14.367-14.367 14.367c-209.22 0-379.722 170.19-379.722 379.722 0 181.12 128.654 337.874 306.023 372.535 7.806 1.558 12.801 9.059 11.243 16.865-0.94 6.561-6.867 11.243-13.741 11.243z",
+        "M511.843 920.292c-7.806 0-14.367-6.561-14.367-14.367s6.561-14.367 14.367-14.367c209.22 0 379.722-170.19 379.722-379.722 0-176.743-124.909-332.565-297.278-370.664-7.806-1.558-12.801-9.369-10.93-17.178 1.558-7.806 9.369-12.801 17.178-10.93 89.311 19.676 170.502 69.949 228.269 141.455 58.705 72.446 91.182 163.942 91.182 257.308 0.313 225.145-182.991 408.449-408.135 408.449z",
+        "M415.040 226.74c-3.75 0-7.493-1.558-10.304-4.369-5.622-5.622-5.308-14.679 0.313-20.295l96.804-94.619c5.622-5.622 14.679-5.308 20.295 0.313s5.308 14.679-0.313 20.295l-96.804 94.619c-2.811 2.811-6.248 4.059-9.99 4.059z",
+        "M511.843 920.292c-4.059 0-8.119-1.871-10.93-5.308-4.995-6.248-4.369-15.299 1.871-20.295l111.171-92.743c6.248-4.995 15.299-4.369 20.295 1.871s4.369 15.299-1.871 20.295l-111.171 92.743c-2.811 2.498-5.935 3.437-9.369 3.437z"
+      ],
+      "attrs": [
+        {
+          "fill": "rgb(95, 98, 99)"
+        },
+        {
+          "fill": "rgb(95, 98, 99)"
+        },
+        {
+          "fill": "rgb(95, 98, 99)"
+        },
+        {
+          "fill": "rgb(95, 98, 99)"
+        }
+      ],
+      "grid": 0,
+      "tags": [
+        ""
+      ],
+      "colorPermutations": {
+        "100101105110010210612051946120614451991011051": [
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          }
+        ],
+        "10010110511001021061205194619598991991011051": [
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          },
+          {
+            "f": 0
+          }
+        ]
+      }
     }
   ],
   "colorThemes": [
@@ -2676,9 +2776,41 @@
         46,
         1
       ]
+    ],
+    [
+      [
+        95,
+        98,
+        99,
+        1
+      ],
+      [
+        100,
+        102,
+        106,
+        1
+      ],
+      [
+        100,
+        101,
+        105,
+        1
+      ],
+      [
+        99,
+        101,
+        105,
+        1
+      ],
+      [
+        205,
+        19,
+        46,
+        1
+      ]
     ]
   ],
-  "colorThemeIdx": 0,
+  "colorThemeIdx": 1,
   "preferences": {
     "showGlyphs": true,
     "showQuickUse": true,
@@ -2706,7 +2838,8 @@
     },
     "historySize": 50,
     "showCodes": true,
-    "gridSize": 16
+    "gridSize": 16,
+    "showGrid": false
   },
   "IcoMoonType": "icon-set"
 }

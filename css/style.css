@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'svb';
-  src:  url('../fonts/svb.eot?ot3qww');
-  src:  url('../fonts/svb.eot?ot3qww#iefix') format('embedded-opentype'),
-    url('../fonts/svb.ttf?ot3qww') format('truetype'),
-    url('../fonts/svb.woff?ot3qww') format('woff'),
-    url('../fonts/svb.svg?ot3qww#svb') format('svg');
+  src:  url('../fonts/svb.eot?b0p2pt');
+  src:  url('../fonts/svb.eot?b0p2pt#iefix') format('embedded-opentype'),
+    url('../fonts/svb.ttf?b0p2pt') format('truetype'),
+    url('../fonts/svb.woff?b0p2pt') format('woff'),
+    url('../fonts/svb.svg?b0p2pt#svb') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -198,4 +198,10 @@
 }
 .wrench-outline:before {
   content: "\e93c";
+}
+.flag-variant-outline:before {
+  content: "\e93d";
+}
+.recycle-variant:before {
+  content: "\e93e";
 }
