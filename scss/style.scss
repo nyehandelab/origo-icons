@@ -317,4 +317,13 @@
     content: $wrench-outline;     
   }
 }
-
+.flag-variant-outline {
+  &:before {
+    content: $flag-variant-outline;     
+  }
+}
+.recycle-variant {
+  &:before {
+    content: $recycle-variant;     
+  }
+}
